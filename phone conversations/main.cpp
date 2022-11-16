@@ -17,6 +17,6 @@ int main()
     sum = 0;
     CalculationSum(dt64, ds, d64, t64, s64, sum);
     
-    printf("The cost of the conversation: %.2f \n", sum);
+    printf("The cost of the conversation: %lf \n", sum);
     return 0;
 }
