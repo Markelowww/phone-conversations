@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "phone conversations", "phone conversations\phone conversations.vcxproj", "{E79BDEB8-540A-46FC-A68B-E537C61E33A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E79BDEB8-540A-46FC-A68B-E537C61E33A7}.Debug|x64.ActiveCfg = Debug|x64
+		{E79BDEB8-540A-46FC-A68B-E537C61E33A7}.Debug|x64.Build.0 = Debug|x64
+		{E79BDEB8-540A-46FC-A68B-E537C61E33A7}.Debug|x86.ActiveCfg = Debug|Win32
+		{E79BDEB8-540A-46FC-A68B-E537C61E33A7}.Debug|x86.Build.0 = Debug|Win32
+		{E79BDEB8-540A-46FC-A68B-E537C61E33A7}.Release|x64.ActiveCfg = Release|x64
+		{E79BDEB8-540A-46FC-A68B-E537C61E33A7}.Release|x64.Build.0 = Release|x64
+		{E79BDEB8-540A-46FC-A68B-E537C61E33A7}.Release|x86.ActiveCfg = Release|Win32
+		{E79BDEB8-540A-46FC-A68B-E537C61E33A7}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7A0A29A-F111-4C64-9D2C-CA60D1E01B26}
+	EndGlobalSection
+EndGlobal
